@@ -1,4 +1,4 @@
-Mac에서 SSH로 시작하는 git 사용 시 에러 해결
+# Mac에서 SSH로 시작하는 git 사용 시 에러 해결
 
 회사에서 내부에서 gitblit를 사용 시, git clone의 주소 앞이 https, git이 아닌 ssh일 경우 리눅스 계열에서는 문제없이 git이 작동하지만 Mac에서는 작동을 하지 않고 아래와 같은 에러가 발생한다.
 
@@ -67,4 +67,8 @@ Host *
         SendEnv LANG LC_*
 ~
 ```
+
+## 참고
+
+* http://itsooda.com/2018/04/15/env/2018-04-15-fallingg-macos-ssh-error/
 
