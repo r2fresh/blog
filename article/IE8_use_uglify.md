@@ -95,3 +95,7 @@ olleh.Vector.style = {
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property_Accessors
+* https://www.npmjs.com/package/gulp-minify
+* http://lisperator.net/uglifyjs/codegen
+* http://lisperator.net/uglifyjs/compress
+* http://www.sangkle.com/archives/580
